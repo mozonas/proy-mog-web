@@ -44,11 +44,9 @@ body {
 
 }
 
-.mainPopUp{
+.mainPopUp>.showClosePopUp{
     display:flex;
-    flex-direction: row-reverse;
 }
-
 
 .sectionImg imh{
     max-width: 80%;
